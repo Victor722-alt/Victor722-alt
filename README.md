@@ -70,9 +70,9 @@ I'm the kind of developer who:
 
 ## 📫 Let’s Connect
 
-- GitHub: [github.com/your-username](https://github.com/Victor722-alt)  
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/nmesoma-victor-ogbonna-1537542b2)  
-- Email: [your.email@example.com](mailto:ogbonnav872@gmail.com)
+- GitHub: [github.com/Victor722-alt](https://github.com/Victor722-alt)  
+- LinkedIn: [nmesoma-victor-ogbonna](https://linkedin.com/in/nmesoma-victor-ogbonna-1537542b2)  
+- Email: [ogbonnav872@gmail.com](mailto:ogbonnav872@gmail.com)
 
 ---
 
